@@ -31,3 +31,8 @@ This is a **Human Resource Management (HRM)** system developed using the Django 
    git clone https://github.com/Murtaza7n/Hrm-System.git
    cd Hrm-System
 i'm sitt working on it 
+
+
+
+
+hello omu friend you fine !  
